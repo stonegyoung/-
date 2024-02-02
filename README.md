@@ -1,5 +1,6 @@
 **시각장애인을 위한 딥러닝 기반 상품인식 디바이스**
 **(Deep learning-based product recognition device for the visually impaired)**
+
 세 가지의 상품 종류: 컵라면, 음료, 과자
 신라면, 진라면, 짜파게티/코카콜라, 파워에이드, 스프라이트/초코하임, 포테토칩, 매운 새우깡
 총 아홉 가지의 상품으로 상품 인식 및 구역 인식이 가능하다.
