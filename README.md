@@ -4,6 +4,7 @@
 
 작품 목적 및 필요성 영상
 [https://youtube.com/shorts/h2Ce5q_pXRc?si=13fndiz7mpR9zH2Z](url)
+
 [https://youtu.be/woiF52DQHc4?si=-JxEDlwMyQO06518](url)
 
 ![슬라이드3](https://github.com/stonegyoung/product-recognition-device/assets/127651962/7ed243c5-1917-4330-a2a2-f46b7f0c219e)
