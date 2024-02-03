@@ -20,6 +20,7 @@
 ![슬라이드5](https://github.com/stonegyoung/product-recognition-device/assets/127651962/4cc9b935-0b79-4cd1-9253-49855999e050)
 ![슬라이드6](https://github.com/stonegyoung/product-recognition-device/assets/127651962/4e0047b3-dd2f-413a-93f3-29acb2b16805)
 ![슬라이드7](https://github.com/stonegyoung/product-recognition-device/assets/127651962/90fb70b9-8fcf-4b0b-ac5d-1aeaaaada567)
+![슬라이드2](https://github.com/stonegyoung/product-recognition-device/assets/127651962/c6353e7f-d48c-4e22-b8bf-e20f7a1969f1)
 
 데모 영상
 https://github.com/stonegyoung/product-recognition-device/assets/127651962/0cf5231c-39fb-4446-8770-2aae893cfdbb
