@@ -7,6 +7,9 @@
 
 총 아홉 가지의 상품으로 상품 인식 및 구역 인식이 가능하다.
 
+https://github.com/user-attachments/assets/2ba35807-06f9-44a7-8665-be2bc4a865c0
+
+
 ![슬라이드1](https://github.com/stonegyoung/product-recognition-device/assets/127651962/dbf5a1c4-2a61-4408-a2d3-1a296553e28f)
 
 작품 목적 및 필요성 영상
